@@ -4,3 +4,27 @@
 *:after {
   box-sizing: border-box;
 }
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.error-box {
+  display: inline-block;
+  padding: 30px;
+  border: 2px solid #ff4d4d;
+  background-color: #ffe6e6;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.error-box h2 {
+  color: #ff1a1a;
+  margin-bottom: 20px;
+}
+
+.error-box p {
+  font-size: 1.2em;
+}
