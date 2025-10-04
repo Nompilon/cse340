@@ -10,8 +10,8 @@
             "previewLimit": 50,
             "server": "localhost",
             "driver": "PostgreSQL",
-            "name": "render.com",
-            "connectString": "postgresql://cse340nn:H8YItwhE7vIrW9S8OiIstQzLDVP9Q2NK@dpg-d3c3e8l6ubrc73efmgm0-a.oregon-postgres.render.com/cse340nn"
+            "connectString": "postgresql://cse340nn:H8YItwhE7vIrW9S8OiIstQzLDVP9Q2NK@dpg-d3c3e8l6ubrc73efmgm0-a.oregon-postgres.render.com/cse340nn",
+            "name": "render.com"
         }
     ]
 }
