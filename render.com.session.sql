@@ -1,4 +1,12 @@
-CREATE TABLE public.classification (
+INSERT INTO classification (classification_id, classification_name)
+VALUES (
+    classification_id:integerINSERT INTO classification (classification_id, classification_name)
+    VALUES (
+        classification_id:integer,
+        'classification_name:character varying'
+      );,
+    'classification_name:character varying'
+  );CREATE TABLE public.classification (
     classification_id SERIAL PRIMARY KEY,
     classification_name VARCHAR(255) NOT NULL
 );
